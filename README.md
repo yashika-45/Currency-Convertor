@@ -1,4 +1,4 @@
-A simple currency convertor webpage designed using HTML,CSS and JavaScript.
+A simple currency converter webapp designed using HTML,CSS and JavaScript.
 
 ## Live Demo
 
